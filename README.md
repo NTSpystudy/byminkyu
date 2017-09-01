@@ -1,2 +1,2 @@
-# byminkyu
+# kyu_Python
 python project
